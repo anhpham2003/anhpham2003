@@ -15,6 +15,22 @@ Hey there! I’m Anh — a curious coder passionate about blending creativity, c
 
 ---
 
+### 🧰 Tech Stack
+
+**Languages:**  
+`Python` | `Java` | `JavaScript` | `TypeScript` | `SQL` | `R` | `HTML/CSS`
+
+**Frameworks & Libraries:**  
+`React` | `React Native (Expo)` | `Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib`
+
+**Tools & Platforms:**  
+`Firebase` | `Pinecone` | `AWS` | `dbt` | `Power BI` | `Jupyter Notebook` | `VS Code` | `IntelliJ`
+
+**Technologies I'm Exploring:**  
+`Meta LLaMA 3` | `RAG (Retrieval-Augmented Generation)` | `Computer Vision for ASL` | `Apriori Algorithm` | `Prompt Engineering` | `ETL Pipelines` | `Vector Databases`
+
+---
+
 ### 🛠️ Projects I’m Proud Of
 - 🧋 **Seaside Sips Coffee Shop** – AI-powered ordering system with LLM agents for chat, recommendations, and product Q&A  
 - 🧠 **ASL Dictionary (in progress)** – real-time sign language translation using vision + ML  
@@ -33,4 +49,5 @@ Hey there! I’m Anh — a curious coder passionate about blending creativity, c
 
 📫 Let’s collaborate or connect:
 [LinkedIn](https://linkedin.com/in/hoang-anh-pham) • [GitHub](https://github.com/anhpham2003)  
+
 > *“Code what matters. Make it thoughtful. Make it fun.”* 🌱🐾
