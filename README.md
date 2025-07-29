@@ -50,4 +50,4 @@ Hey there! I’m Anh — a curious coder passionate about blending creativity, c
 📫 Let’s collaborate or connect:
 [LinkedIn](https://linkedin.com/in/hoang-anh-pham) • [GitHub](https://github.com/anhpham2003)  
 
-> *“Code what matters. Make it thoughtful. Make it fun.”* 🌱🐾
+> *My profile picture was created from an actual picture of me and my baby corgi!* 🌱🐾
